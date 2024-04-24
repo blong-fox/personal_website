@@ -1,7 +1,7 @@
 site_name: 'Brookes personal site'
 site_description: 'Central resource for ESIIL postdoctoral researchers'
 site_author: Brooke Long-Fox
-site_url: https://github.com/blong-fox/personal_website
+site_url: https://cu-esiil.github.io/blong-fox/personal_website
 
 # Repository
 repo_name: personal_website
